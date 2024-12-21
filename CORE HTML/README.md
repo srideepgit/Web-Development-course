@@ -5,20 +5,23 @@
   
 1. Build a simple web page which display text as shown in the below image.
    
-![ ans-1 ](https://github.com/user-attachments/assets/e369cfb0-0000-4663-bd62-8f2f8d3b9fbc)
+![ ans-1 ](https://github.com/user-attachments/assets/7c76f5c9-61c3-48eb-9c20-84017a1ffb39)
+
 
 
 </br>
 
 2. Build a simple Webpage that helps users navigate different web development – related websites. Note: On clicking the hyperlinks the webpages should open in a new tab. Below is a reference image.
  
-![ ans-2 ](https://github.com/user-attachments/assets/ee8b842c-e544-4f1b-bd7b-458e72da5501)
+![ ans-2 ](https://github.com/user-attachments/assets/30156eaf-6198-41f3-bdc3-b63d9ac48e74)
+
 
 </br>
 
 3. Build a simple blog web page with 3 pages home, web development and web design. Each page must contain hyperlinks to other pages in the top, a heading of the page topic and paragraph of informaƟon. For home page you can add informaƟon about yourself.
  
-![ ans-3 ](https://github.com/user-attachments/assets/fdd89316-2ad8-4963-973b-7f1fe8bf5c39)
+![ ans-3 ](https://github.com/user-attachments/assets/d229df70-069d-441d-bf97-f5c33aa0ddf8)
+
 
 </br>
 
@@ -32,13 +35,15 @@
 
 5. Create a description list of full stack web development tech stack, using the `<dl>` tag. Each term should be a tech stack name and each description should be a brief explaination of what the tech stack is used for.
 
-![ ans-5 ](https://github.com/user-attachments/assets/ee8b842c-e544-4f1b-bd7b-458e72da5501)
+![ ans-5 ](https://github.com/user-attachments/assets/95fe85df-8e21-4532-aa96-2a2a7157fd05)
+
 
 </br>
 
 6. Create an ordered list of the full stack web development tech stack HTML, CSS, and JS. -or each tech stack, create a table that lists the tech stack name, its primary use cases, and some key features or benefits. Below is a reference image (Given In question) `Output same as question image`
 
-![ ans-6 ](https://github.com/user-attachments/assets/edf0bca6-6e98-408d-bfc5-8dfa157d3f1a)
+![ ans-6 ](https://github.com/user-attachments/assets/ef2d62fb-fe99-420a-9f4e-6e53806e0e42)
+
 
 </br>
 
