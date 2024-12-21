@@ -63,12 +63,3 @@
 
 </br>
 
-9. Create an ordered list of the most common text formating tags in HTML. Within each list item, use an unordered list to list the specific use cases and best process for that tag.
-
-![ ans-9 ](https://github.com/user-attachments/assets/d1cab3dd-3b89-4b0b-b91e-b50c37ff5735)
-
-</br>
-
-10. Create an ordered list of the full stack web development tech stack HTML, CSS, and JS. -or each tech stack, create a table that lists the tech stack name, its primary use cases, and some key features or benefits. Below is a reference image (Given In question) `Output same as question image`
-
-![ ans-10 ](https://github.com/user-attachments/assets/9e01a689-1d8f-44b9-8f40-91428429bba4)
