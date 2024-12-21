@@ -27,9 +27,11 @@
 
 4. Build a simple blog web page with 3 pages home, web development and web design. Each page must contain hyperlinks to other pages in the top, a heading of the page topic and paragraph of informaƟon. For home page you can add informaƟon about yourself.
 
-![ ans-4(1) ](https://github.com/user-attachments/assets/2af291ca-47a3-454f-b413-997aec04f229)
-![ ans-4(2) ](https://github.com/user-attachments/assets/7eee7958-dde4-4a41-891c-d0e742e56849)
-![ ans-4(3) ](https://github.com/user-attachments/assets/a9f2208c-7e29-41dc-af9e-ade1f53a0440)
+![ ans-3(a)](https://github.com/user-attachments/assets/5fdf3b2e-8181-4813-bba2-68c8abfb8742)
+
+![ans-3(b)](https://github.com/user-attachments/assets/fbc8c202-2429-4ac5-b80b-03fda07e6b7d)
+
+![ans-3(c)](https://github.com/user-attachments/assets/0f16ddae-9045-465b-849a-5eb99faf4130)
 
 </br>
 
