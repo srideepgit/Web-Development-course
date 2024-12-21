@@ -49,14 +49,14 @@
 
 </br>
 
-7. Create an unordered list of 5 programming Quotes, using the `<ul>` tag.
+7. Build a complex nested list structure representing a multi-level table of contents. Use unordered lists (<ul>) and list items (<li>) with inline-block styling to create a structured layout. Apply formatting tags to enhance the presentation of list itemsCreate an unordered list of 5 programming Quotes, using the `<ul>` tag.
 
 ![ ans-7 ](https://github.com/user-attachments/assets/f4da2510-2d3d-4c60-999d-61f9d98e60bc)
 
 
 </br>
 
-8. Create a description list of full stack web development tech stack, using the `<dl>` tag. Each term should be a tech stack name and each description should be a brief explaination of what the tech stack is used for.
+8. Create a table to display a conference schedule. Each row corresponds to a time slot, and each column corresponds to a room. Some time slots might have multiple sessions running simultaneously in different rooms. Utilize rowspan and colspan attributes as necessary to accommodate this complex schedule. (use table attribute "cellpadding" to give extra padding in each table cell ).
 
 ![ ans-8 ](https://github.com/user-attachments/assets/4240e15c-5b3a-4887-978a-875525786c45)
 )
