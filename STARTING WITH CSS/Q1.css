@@ -1,0 +1,7 @@
+/* External CSS */
+.external-style {
+    color: purple;
+    background-color: yellow;
+    border: 2px dashed green;
+    padding: 15px;
+}
