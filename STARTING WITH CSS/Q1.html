@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Targeting Demonstration</title>
+    <!-- External CSS -->
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Internal CSS */
+        .internal-style {
+            color: blue;
+            border: 1px solid black;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to CSS Targeting Demonstration</h1>
+    </header>
+    <main>
+        <!-- Inline CSS -->
+        <div style="color: red; background-color: lightgray;">
+            This div uses inline CSS.
+        </div>
+        <!-- Internal CSS -->
+        <div class="internal-style">
+            This div uses internal CSS.
+        </div>
+        <!-- External CSS -->
+        <div class="external-style">
+            This div uses external CSS. Check the styles.css file.
+        </div>
+        <!-- Demonstrating Precedence -->
+        <div class="internal-style external-style" style="color: green;">
+            When styles overlap: Inline > Internal > External
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
