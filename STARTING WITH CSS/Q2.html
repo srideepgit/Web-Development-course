@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BEM Naming Convention Example</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Base styles for the content block */
+.content {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Styles for the primary paragraph */
+.content__paragraph--primary {
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Styles for the secondary paragraph */
+.content__paragraph--secondary {
+    color: green;
+    font-size: 16px;
+    font-style: italic;
+}
+
+/* Styles for the highlighted paragraph */
+.content__paragraph--highlight {
+    background-color: yellow;
+    padding: 10px;
+    border: 1px solid orange;
+}
+
+/* Styles for the note paragraph */
+.content__paragraph--note {
+    color: gray;
+    font-size: 14px;
+    border-left: 4px solid black;
+    padding-left: 10px;
+}
+
+    </style>
+</head>
+<body>
+    <div class="content">
+        <p class="content__paragraph content__paragraph--primary">This is the primary paragraph.</p>
+        <p class="content__paragraph content__paragraph--secondary">This is the secondary paragraph.</p>
+        <p class="content__paragraph content__paragraph--highlight">This is the highlighted paragraph.</p>
+        <p class="content__paragraph content__paragraph--note">This is a note paragraph.</p>
+    </div>
+</body>
+</html>
