@@ -1,3 +1,27 @@
+/* Custom Color Palette */
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #FF9800;
+    --background-color: #f9f9f9;
+    --input-background-color: #ffffff;
+    --button-color: #4CAF50;
+    --button-hover-color: #45a049;
+}
+
+/* Form Container */
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: var(--background-color);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form Section */
+.form-section {
+    margin-bottom: 15px;
+}
 
 /* Labels */
 label {
